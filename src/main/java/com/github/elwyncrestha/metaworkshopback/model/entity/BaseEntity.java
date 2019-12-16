@@ -15,7 +15,7 @@ import lombok.NoArgsConstructor;
 import org.springframework.data.jpa.domain.AbstractPersistable;
 
 /**
- * @author Elvin Shrestha on 26/11/2019
+ *
  */
 @MappedSuperclass
 @Data

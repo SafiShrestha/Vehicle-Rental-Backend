@@ -11,9 +11,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.github.elwyncrestha.metaworkshopback.model.entity.Food;
 import com.github.elwyncrestha.metaworkshopback.model.entity.Vehicle;
-import com.github.elwyncrestha.metaworkshopback.model.service.FoodService;
 import com.github.elwyncrestha.metaworkshopback.model.service.VehicleService;
 
 @RestController

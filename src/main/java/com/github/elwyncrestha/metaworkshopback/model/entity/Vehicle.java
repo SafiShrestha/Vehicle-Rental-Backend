@@ -17,4 +17,5 @@ public class Vehicle extends BaseEntity<Long> implements Serializable {
 
     private String name;
     private float price;
+    private Boolean booked;
 }
